@@ -66,7 +66,10 @@ BAG_OF_WORDS_ARCHIVE_MAP = {
     'space': "https://s3.amazonaws.com/models.huggingface.co/bert/pplm/bow/space.txt",
     'technology': "https://s3.amazonaws.com/models.huggingface.co/bert/pplm/bow/technology.txt",
     'skin_care': "https://pplmbow.s3.amazonaws.com/skin_care.txt"
-}
+    }
+
+
+
 
 DISCRIMINATOR_MODELS_PARAMS = {
     "clickbait": {
