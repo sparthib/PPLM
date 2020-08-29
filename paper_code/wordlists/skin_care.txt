@@ -1,0 +1,561 @@
+SPF
+ advanced
+ ageless
+ air-soft
+ air-whipped
+ all-day
+ all-in-one 
+ all-natural 
+ anti-aging 
+ anti-inflammatory 
+ antimicrobial 
+ antioxidant-rich 
+ antiseptic 
+ aromatic 
+ beautiful 
+ beneficial 
+ best 
+ blendable 
+ botanical 
+ brilliant 
+ clarifying 
+ classic 
+ clean 
+ cleansing 
+ clump-free 
+ color-rich 
+ color-true 
+ concentrated 
+ conditioning 
+ continuous 
+ convenient 
+ cooling 
+ creamy 
+ crease-resistant 
+ daily 
+ deep 
+ deep-cleansing 
+ defining 
+ delicate 
+ dermatologist-recommended 
+ dermatologist-tested 
+ dramatic 
+ easily-applied 
+ easy 
+ easy-to-apply 
+ easy-to-use 
+ effective 
+ emollient 
+ enhancing 
+ enriched 
+ enriching 
+magical 
+ matte 
+ medicated 
+ medicinal 
+ microfine 
+ mineral-rich 
+ miraculous 
+ more even 
+ must-have 
+ natural 
+ natural-looking 
+ naturally 
+ nature's 
+ no-shine 
+ non-greasy 
+ nourishing 
+ nutritive 
+ oil-free 
+ on-the-go 
+ ophthalmologist-tested 
+ organic 
+ outdoor 
+ overnight 
+ oxidant-rich 
+ perfecting 
+ personal 
+ plant-based 
+ plant-powered 
+ plumping 
+ powerful 
+ prescription-strength 
+ professional 
+ proven 
+ pure 
+ quick 
+ quick-absorbing 
+ quick-drying 
+ radiance-enhancing 
+ radiant 
+ recommended 
+ refreshed 
+ refreshing 
+ regenerating 
+ rehydrating 
+ remarkable 
+ renewed 
+ replenishing 
+ resilient 
+ restorative 
+ restructuring 
+ revitalizing 
+ essential 
+ even-toned 
+ exceptional 
+ exclusive 
+ exfoliating 
+ extra 
+ facial 
+ fade-proof 
+ firm 
+ firmer 
+ firming 
+ flawless 
+ formulated 
+ fragrance-free 
+ fragrant 
+ fresh 
+ fresh-faced 
+ fuller 
+ fuss-free 
+ gentle 
+ gently 
+ glow-boosting 
+ gorgeous 
+ hand-milled 
+ healthy 
+ healthy-looking 
+ heavenly 
+ herbal 
+ high definition 
+ hydrating 
+ ideal 
+ illuminating 
+ immediate 
+ innovative 
+ instantly 
+ intense 
+ intensified 
+ intensive 
+ invigorating 
+ kissable 
+ lasting 
+ lengthening 
+ light 
+ lightweight 
+ line-diminishing 
+ long-lasting 
+ long-wearing 
+ lovely 
+ luminous 
+ luscious 
+ lush 
+ rich 
+ satin-soft 
+ scientifically advanced 
+ sexy 
+ sheer 
+ shimmering 
+ signature 
+ silky 
+ simple 
+ skin cream 
+ sleek 
+ smear-proof 
+ smooth 
+ smoothing 
+ smudge-free 
+ smudge-resistant 
+ soft 
+ soothing 
+ sophisticated 
+ spa-inspired 
+ stay-in-place 
+ strengthening 
+ striking 
+ styling 
+ suitable 
+ sun-kissed 
+ super-enriched 
+ supple 
+ tear-free 
+ therapeutic 
+ thicker 
+ toned 
+ ultra-conditioning 
+ ultra-emollient 
+ ultra-fine 
+ ultra-light 
+ unique 
+ velvety 
+ versatile 
+ vibrant 
+ visibly 
+ volumizing 
+ warming 
+ waterproof 
+ weightless 
+ worry-free 
+ younger-looking 
+ youth-enhancing 
+ youthful 
+ after-feel 
+ aging 
+ amino acids 
+ antioxidants 
+ appearance 
+ application 
+ balms 
+ beauty 
+ blush 
+ body 
+ botanicals 
+ bronze 
+ brow 
+ care 
+ cheekbones 
+ color 
+ complexion 
+ concealer 
+ contour 
+ cosmetic 
+ coverage 
+ defense 
+ definition 
+ effect 
+ emollient 
+luster 
+ make-up 
+ makeover 
+ mascara 
+ micro-fibers 
+ minerals 
+ moisture 
+ moisturizer 
+ nails 
+ nutrient 
+ oil 
+ perfection 
+ pigment 
+ pores 
+ powder 
+ precision 
+ product 
+ properties 
+ protection 
+ radiance 
+ refreshment 
+ regimen 
+ relief 
+ renewal 
+ resilience 
+extract 
+ eye shadow 
+ eyeliner 
+ face 
+ face wash 
+ fatty acids 
+ feet 
+ fine lines 
+ finish 
+ firmness 
+ formula 
+ foundation 
+ fragrance 
+ glow 
+ hands 
+ healing 
+ hydration 
+ illumination 
+ infusion 
+ ingredient 
+ lash 
+ lip gloss 
+ lips 
+ lipstick 
+ look 
+ scent 
+ science 
+ senses 
+ shade 
+ skin 
+ skin care 
+ skin tone 
+ skin's surface 
+ smile 
+ softness 
+ source 
+ spa 
+ style 
+ substance 
+ system 
+ technology 
+ texture 
+ tint 
+ tone 
+ tool 
+ treatment 
+ vitality 
+ vitamins 
+ volume 
+ accentuate 
+ achieve 
+ add 
+ add moisture to 
+ age 
+ apply 
+ awaken 
+ balance 
+ banish 
+ blend 
+ boost 
+ boosted by 
+ brighten 
+ bring to life 
+ bronze 
+ brush 
+ calm 
+ clean 
+ cleanse 
+ clear 
+ coat 
+ color 
+ combine 
+ comfort 
+ conceal 
+ condition 
+ contour 
+ control 
+ cool 
+ defend against 
+ define 
+ defy 
+ deliver 
+ diffuse 
+ eliminate 
+ emphasize 
+ minimize 
+ mist 
+ mist 
+ moisten 
+ moisturize 
+ motivate 
+ need 
+ nourish 
+ nurture 
+ pamper 
+ pat 
+ pat dry 
+ penetrate 
+ plump 
+ prep 
+ prevent 
+ primp 
+ promote 
+ protect 
+ provide 
+ pump up 
+ purify 
+ reduce 
+ refine 
+ refresh 
+ rehydrate 
+ rejuvenate 
+ release 
+ relieve 
+ remove 
+ repair 
+ replenish 
+ rescue 
+ resist 
+ restore 
+ reveal 
+ enhance 
+ enjoy 
+ erase 
+ even out 
+ exfoliate 
+ experience 
+ feel 
+ fight 
+ fill 
+ find 
+ firm 
+ give 
+ glides on 
+ goes on 
+ heal 
+ help 
+ help 
+ highlight 
+ holds in 
+ hydrate 
+ illuminate 
+ improve 
+ increase 
+ infuse 
+ invigorate 
+ keep 
+ last 
+ lather 
+ lift 
+ line 
+ lock in 
+ look 
+ loosen 
+ make 
+ massage 
+ massage into 
+ revitalize 
+ revive 
+ rinse 
+ rub 
+ scrub 
+ sculpt 
+ seal in 
+ set 
+ shade 
+ shape 
+ shield 
+ shimmer 
+ shine 
+ smooth 
+ soak 
+ soften 
+ soothe 
+ stays 
+ stimulate 
+ strengthen 
+ stroke 
+ style 
+ sweep 
+ tighten 
+ tingle 
+ tone 
+ touch-up 
+ transform 
+ treat 
+ uncover 
+ use 
+ vanish 
+ wash 
+ wear 
+ work wonders 
+ UV rays 
+ achy 
+ acne-prone 
+ affected area 
+ age 
+ buildup 
+ cakey 
+ chalky 
+ chapped 
+ cracked 
+ creases 
+ damage 
+ dark circles 
+ delicate 
+ detergents 
+ dirt 
+ dirty 
+ discoloration 
+ drying 
+ dryness 
+ dull 
+ lined 
+ lines 
+ mature 
+ oil 
+ oily 
+ old 
+ old age 
+ outdoors 
+ pain 
+ pigmented 
+ pores 
+ processed 
+ puffiness 
+ puffy 
+ runs 
+ scarring 
+ sensitive 
+ shadows 
+ shine 
+ shriveled 
+ signs of aging 
+ enlarged pores 
+ environmental damage 
+ exposed 
+ exposure 
+ fade 
+ fading 
+ fine lines 
+ flaking 
+ flat 
+ free radicals 
+ greasy 
+ harsh 
+ heat 
+ humidity 
+ imperfections 
+ impurities 
+ inflamed 
+ irritated 
+ irritation 
+ itchy 
+ lash clumps 
+  skin-damaging 
+ smear 
+ smudge 
+ splotchy 
+ spots 
+ sun 
+ sun burn 
+ sun damage 
+ sun-drenched 
+ sweaty 
+ swelling 
+ swollen 
+ tight 
+ tightness 
+ tired skin 
+ troubled 
+ uneven 
+ unruly 
+ wears off 
+ wind 
+ wind-burned 
+ balm 
+ bath oil 
+ blush 
+ body lotion 
+ bronzer 
+ cleanser 
+ concealer 
+ cream 
+ lip gloss 
+ lip pencil 
+ loose powder 
+ lotion 
+ makeup 
+ makeup remover 
+ mascara 
+ mask 
+ day cream 
+ eye shadow 
+ eye treatment 
+ eyeliner 
+ facial cleanser 
+ foot lotion 
+ foundation 
+ hair care 
+ nail lacquer 
+ nail polish 
+ night cream 
+ powder 
+ pressed powder 
+ salve 
+ scrub 
+ sun screen 
+ 
